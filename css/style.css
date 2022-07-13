@@ -44,12 +44,12 @@ button {
 
 main.container {
     width: 95%;
-    max-width: 430px;
+    max-width: 440px;
     height: 700px;
     position: absolute;
     border: none;
     outline: none;
-    border-radius: 15px;
+    border-radius: 10px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);

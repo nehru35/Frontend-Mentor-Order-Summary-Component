@@ -71,7 +71,7 @@ main.container {
 }
 
 .title {
-    font-size: 27px;
+    font-size: 25px;
     color: var(--Dark-blue, hsl(223, 47%, 23%));
 }
 
